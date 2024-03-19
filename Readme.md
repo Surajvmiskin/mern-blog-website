@@ -1,5 +1,5 @@
-# Fullstack MERN Blogging Website    
-     m
+# Fullstack MERN Blogging Website   
+
 Fork this repo of "MERN Blogging Website" to start following the video tutorial.
  
 This website features include -
