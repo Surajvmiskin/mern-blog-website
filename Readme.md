@@ -12,7 +12,7 @@ This website features include -
 7. Blog Post Analytics, editable and deletable.
 8. Like interaction on Blogs with feature to comment on the blog.
 9. Reply to comments. ( A nested Comment System )
-10. Every interaction on site stores as a notification for their respective users.
+10. Every interaction on site stores as a notification for their respective users.  
 11. Recent notification highlight separating them from old notifications.
 12. Edit profile option to update social links, bio and username
 13. Also user can change login password from settings.
