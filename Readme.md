@@ -7,7 +7,7 @@ This website features include -
 2. Google Authentication for Users
 3. Dynamic Blog Pages on dynamic urls.
 4. Search Page for Searching Blogs & users.
-5. Dedicated Users Profile with thier social links and written blogs.
+5. Dedicated Users Profile with thier social links and written blogs. 
 6. Dedicated dashboard to manage blogs either published or draft.
 7. Blog Post Analytics, editable and deletable.
 8. Like interaction on Blogs with feature to comment on the blog.
