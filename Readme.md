@@ -1,7 +1,7 @@
 # Fullstack MERN Blogging Website   
 
 Fork this repo of "MERN Blogging Website" to start following the video tutorial. 
-  
+   
 This website features include -
 1. Modern Blog Editor using Editor JS.
 2. Google Authentication for Users
